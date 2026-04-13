@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Test">
+  <trk>
+    <trkseg>
+      <trkpt lat="47.644548" lon="-122.326897"><ele>4.46</ele></trkpt>
+      <trkpt lat="47.644548" lon="-122.326897"><ele>4.46</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
